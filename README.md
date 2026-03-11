@@ -1,0 +1,2 @@
+# wps_ppt_assistant
+WPS的PPT插件，大纲视图的替代优化和一点效率省事的小功能
